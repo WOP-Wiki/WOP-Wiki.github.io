@@ -40,7 +40,7 @@
     --title: "Write on paper";
     --subtitle: "在纸上随意写点东西";
 
-    --main-content-width: 60rem;
+    --main-content-width: 70%;
     --main-content-top-margin: 1.5rem;
     --base-font-size: .875rem;
     --bottom-area-padding: calc(var(--true-font-size)*2);
